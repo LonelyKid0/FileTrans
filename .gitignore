@@ -1,0 +1,21 @@
+# 构建产物
+bin/
+obj/
+dist/
+
+# 运行时数据
+files/
+.test/
+.tmp/
+
+# 编辑器 / 系统
+.vs/
+.vscode/
+*.user
+*.suo
+Thumbs.db
+.DS_Store
+
+# 本地 GitHub 凭据（不要提交）
+.github-token
+
